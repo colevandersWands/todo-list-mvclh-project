@@ -7,6 +7,8 @@ User stories;
   
 Dev plan:
 
+(there is no L in this app, it's all about state and not logic)
+
 |    | handler | controller | model | view |  
 | --- | --- | --- | --- | --- |   
 | 1 | _add\_todo_; read from the UI & call the controller | _add\_todo_; add new todo to the model | _create_; save the new todo | |    
@@ -17,11 +19,8 @@ Dev plan:
 
 ---
 
-(there is no L in this app, it's all about state and not logic)
-
+Develop the entire application first to run from the developer console.  Once you have built and tested all 5 steps, write an HTML interface and rewrite the _view_ & _handler_ to interact with the DOM -> this is "Dependency Injection".
 
 ___
 ___
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
-
-
+### <a href="http://janke-learning.org" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/50098409-22575780-021c-11e9-99e1-962787adaded.png" width="40" height="40"></img> Janke Learning</a>
